@@ -1,0 +1,15 @@
+Библиотеки:
+npm install sass - установить sass/scss
+npm install react-content-loader - установить библиотеку для skeleton
+npm install react-router-dom@6
+npm install @reduxjs/toolkit react-redux - установить redux toolkit
+npm install lodash - установка lodash
+npm i qs - для парсинга строк (сделать в url такое: sortProperty=price&categoryId=0&currentPage=2)
+
+
+--
+window.scrollTo(0, 0); - чтобы при переходе на страницу при рендеринге происходил скролл на самый вверх
+
+Redux toolkit:
+useSelector - отвечает за вытаскивание данных (получить что-то)
+useDispatch - отвечает за модификацию данных (что-то сделать)
